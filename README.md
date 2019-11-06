@@ -227,7 +227,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [prealloc](https://github.com/alexkohler/prealloc) - Finds slice declarations that could potentially be preallocated.
 * [revive](https://github.com/mgechev/revive) - Fast, configurable, extensible, flexible, and beautiful linter for Go. Drop-in replacement of golint.
 * [safesql](https://github.com/stripe/safesql) - Static analysis tool for Golang that protects against SQL injections.
-* [Staticcheck](https://staticcheck.io/) - A suite of static analysis tools for Go. It specialises on bug finding, code simplicity, performance and editor integration. 
+* [Staticcheck](https://staticcheck.io/) - A suite of static analysis tools for Go. It specialises on bug finding, code simplicity, performance and editor integration.
 * [structcheck](https://gitlab.com/opennota/check) - Find unused struct fields.
 * [test](http://golang.org/pkg/testing/) - Show location of test failures from the stdlib testing module.
 * [unconvert](https://github.com/mdempsky/unconvert) - Detect redundant type conversions.
@@ -368,6 +368,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [Black](https://github.com/ambv/black) - The uncompromising Python code formatter
 * [cohesion](https://github.com/mschwager/cohesion) - a tool for measuring Python class cohesion
 * [Dlint](https://github.com/duo-labs/dlint) - a tool for ensuring Python code is secure
+* [Grimp](https://github.com/seddonym/grimp) - builds a queryable graph of the imports within one or more Python packages
 * [jedi](https://github.com/davidhalter/jedi) - autocompletion/static analysis library for Python
 * [linty fresh](https://github.com/lyft/linty_fresh) - parse lint errors and report them to Github as comments on a pull request
 * [mccabe](https://github.com/PyCQA/mccabe) - check McCabe complexity
@@ -532,7 +533,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [Undebt](https://github.com/Yelp/undebt) - Language-independent tool for massive, automatic, programmable refactoring based on simple pattern definitions
 * [Veracode](http://www.veracode.com/products/static-analysis-sast/static-code-analysis) :copyright: - Find flaws in binaries and bytecode without requiring source. Support all major programming languages: Java, .NET, JavaScript, Swift, Objective-C, C, C++ and more.
 * [WALA](http://wala.sourceforge.net/wiki/index.php/Main_Page) - static analysis capabilities for Java bytecode and related languages and for JavaScript
-* [WhiteHat Application Security Platform](https://www.whitehatsec.com/products/static-application-security-testing/) :copyright: - WhiteHat Scout (for Developers) combined with WhiteHat Sentinel Source (for Operations) supporting WhiteHat Top 40 and OWASP Top 10. Language support for: Java, C#(.NET), ASP.NET, PHP, JavaScript, Node.js, Objective-C, Android, HTML5, TypeScript. 
+* [WhiteHat Application Security Platform](https://www.whitehatsec.com/products/static-application-security-testing/) :copyright: - WhiteHat Scout (for Developers) combined with WhiteHat Sentinel Source (for Operations) supporting WhiteHat Top 40 and OWASP Top 10. Language support for: Java, C#(.NET), ASP.NET, PHP, JavaScript, Node.js, Objective-C, Android, HTML5, TypeScript.
 * [Wotan](https://github.com/fimbullinter/wotan) - Pluggable TypeScript and JavaScript linter
 * [XCode](https://developer.apple.com/xcode/) :copyright: - XCode provides a pretty decent UI for [Clang's](http://clang-analyzer.llvm.org/xcode.html) static code analyzer (C/C++, Obj-C)
 
